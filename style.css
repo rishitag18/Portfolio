@@ -354,6 +354,15 @@ article .icon {
 }
 
 
+.logo img {
+  height: 32px;
+  vertical-align: middle;
+  margin-right: 8px;
+  border-radius: 50%;
+}
+
+
+
 
 
 
